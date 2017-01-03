@@ -1,0 +1,49 @@
+@import url(https://fonts.googleapis.com/css?family=Lato);
+
+header {
+    background-color: black;
+    height: 120px;
+}
+header img {
+    height: 120px;
+}
+body {
+    font-family: Lato, sans-serif;
+    color: white;
+    background-image: url(../bootstrap-3.3.5-dist/img/background.jpg);
+}
+form {
+    font-size: 18px;
+    color: white;
+}
+input {
+    padding: 2px;
+    font-size: 18px;
+    font-family: Lato, sans-serif;
+    background-color: white;
+}
+h1 {
+    font-family: Lato;
+    margin-left: 20px;
+    color: #DB84FF;
+}
+
+.table {
+    background-color: rgba(0, 0, 0, 0.5);
+    padding: inherit;
+}
+
+#submit {
+    width: 150px;
+    height: 35px;
+    font-family: Lato, sans-serif;
+    background-color: black;
+}
+#addSong {
+
+    color: #DB84FF;
+}
+#delete {
+    color: purple;
+
+}

@@ -1,0 +1,13 @@
+body {
+    background-color: #000000;
+}
+
+h2 {
+    color: #DB84FF;
+    font-family: 'Lato', sans-serif;
+}
+
+#playlistColumn ul {
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
